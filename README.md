@@ -3,3 +3,7 @@
 ---
 
 The following repository contains an extensive network analysis 🕸️ of Spotify artists and their collaborations 🎶. This project is a graded assignment 📝 for the Bachelor of Science degree at the DHBW Karlsruhe 🏫.
+
+---
+
+[Spotify Dataset 114k Songs](https://www.kaggle.com/datasets/priyamchoksi/spotify-dataset-114k-songs)
